@@ -1,0 +1,5 @@
+[http://www.gentoo.org/proj/en/devrel/handbook/handbook.xml?part=2&chap=1 Ebuild HOWTO]
+ 
+ 
+ 
+ 
