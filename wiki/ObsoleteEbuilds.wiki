@@ -1,0 +1,8 @@
+#labels Phase-Support
+These ebuilds contain the software that have been unmaintained for a long time, and are waiting for removing.
+
+|| *Name* || *Latest Version (of Software)* || *Last Update Time (of Software)* || *Details* ||
+|| app-i18n/scim-sunpinyin || (N/A) || (N/A) || sunpinyin 2.0 for scim isn't mature, and current 1.0 seems unmaintained ||
+|| app-text/foxitreader || 1.1.0 || 2009-08-13 || ||
+|| net-im/linuxqq || 1.0.2 beta1 || 2009-01-04 || ||
+|| net-misc/multiget(-bin) || 1.2.0 || 2007-10-29 || ||
