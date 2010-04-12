@@ -2,8 +2,10 @@
 These ebuilds contain the software that have been unmaintained for a long time, and are waiting for removing.
 
 || *Name* || *Latest Version (of Software)* || *Last Update Time (of Software)* || *Details* ||
-|| app-antivirus/avast4workstation || 1.3.0 || (N/A) || After updating the virus database, it stops working. ||
-|| app-i18n/scim-sunpinyin || (N/A) || (N/A) || sunpinyin 2.0 for scim isn't mature, and current 1.0 seems unmaintained ||
+|| app-antivirus/avast4workstation || 1.3.0 || (N/A) || stop working after updating the virus database ||
+|| app-i18n/scim-ccinput || 0.3.1 || 2005-06-17 || ||
+|| app-i18n/scim-fcitx || 3.1.1 || 2005-06-13 || ||
+|| app-i18n/scim-sunpinyin || (N/A) || (N/A) || sunpinyin 2.0 for scim isn't mature, and this is 1.0 ||
 || app-text/foxitreader || 1.1.0 || 2009-08-13 || ||
 || net-im/linuxqq || 1.0.2 beta1 || 2009-01-04 || ||
 || net-misc/multiget(-bin) || 1.2.0 || 2007-10-29 || ||
