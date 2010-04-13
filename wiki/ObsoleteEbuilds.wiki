@@ -1,4 +1,4 @@
-#labels Phase-Support
+#labels Phase-Support,Featured
 These ebuilds contain the software that have been unmaintained for a long time, and are waiting for removing.
 
 || *Name* || *Latest Version (of Software)* || *Last Update Time (of Software)* || *Details* ||
