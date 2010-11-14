@@ -10,3 +10,13 @@ These ebuilds contain the software that has been unmaintained for a long time, a
 || net-im/linuxqq || 1.0.2 beta1 || 2009-01-04 || || ||
 || net-misc/multiget(-bin) || 1.2.0 || 2007-10-29 || || Deleted ||
 || x11-plugins/pidgin-fetion || 0.98.6 || 2009-08-09 || || ||
+
+These ebuilds are no longer maintained, and there are other overlays doing better.
+
+|| *Name* ||
+|| media-libs/fontconfig ||
+|| media-libs/freetype ||
+|| x11-libs/cairo ||
+|| x11-libs/libXft ||
+
+For subpixel rendering ebuilds, try [http://devnull.core.ws/ devnull] or [http://gitorious.org/lcd-filtering lcd-filtering].
