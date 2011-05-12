@@ -7,7 +7,7 @@ These ebuilds contain the software that has been unmaintained for a long time, a
 || app-i18n/scim-sunpinyin || (N/A) || (N/A) || Sunpinyin 2.0 for scim isn't mature, and this is 1.0 || Deleted ||
 || app-text/foxitreader || 1.1.0 || 2009-08-13 || || ||
 || media-video/realplayer || 10.0.9 || 2007-8-14 || RealPlayer 11.0.0.4028 released on March 2008 || ||
-|| net-im/linuxqq || 1.0.2 beta1 ||2010-12-22 || || ||
+|| net-im/linuxqq || 1.0.2 ||2010-12-22 || || ||
 || net-misc/multiget(-bin) || 1.2.0 || 2007-10-29 || || Deleted ||
 || x11-plugins/pidgin-fetion || 0.98.6 || 2009-08-09 || || ||
 
